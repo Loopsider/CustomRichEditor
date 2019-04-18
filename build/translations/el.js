@@ -1,0 +1,1 @@
+(function(d){d['el']=Object.assign(d['el']||{},{a:"Έντονη",b:"Πλάγια",c:"Επιλέξτε κεφαλίδα",d:"Κεφαλίδα",e:"Παράγραφος",f:"Κεφαλίδα 1",g:"Κεφαλίδα 2",h:"Κεφαλίδα 3",i:"Heading 4",j:"Heading 5",k:"Heading 6",l:"Επεξεργαστής Πλούσιου Κειμένου",m:"Επεξεργαστής Πλούσιου Κειμένου, 0%",n:"Αναίρεση",o:"Επανάληψη"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
