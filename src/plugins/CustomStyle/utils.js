@@ -5,24 +5,10 @@ export const customStyles = [
     style: {}
   },
   {
-    type: 'redColor',
-    label: 'Red Color',
+    type: 'exergue',
+    label: 'Exergue',
     style: {
-      'color': 'red',
-    },
-  },
-  {
-    type: 'blueColor',
-    label: 'Blue Color',
-    style: {
-      'color': 'blue'
-    },
-  },
-  {
-    type: 'whiteColor',
-    label: 'White Color',
-    style: {
-      'color': 'white'
+      'color': '#5feb98'
     },
   }
 ];
